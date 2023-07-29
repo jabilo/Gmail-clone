@@ -1,3 +1,7 @@
+![image](https://github.com/jabilo/Gmail-clone/assets/66378384/78a13a04-579a-4c7a-a8a5-1b7b2d8ec3e9)
+
+![image](https://github.com/jabilo/Gmail-clone/assets/66378384/aa128608-875a-4a15-986b-16c45e3efed1)
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
